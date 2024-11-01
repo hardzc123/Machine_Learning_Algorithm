@@ -5,9 +5,14 @@ This repo mainly includes the math and algorithm mechanism behind the popular mo
 
 ## Machine Learning Papers 
 
-UniAD, DIPP, DTPP, Para-Drive, VAD, QCNet, Attention is All You Need, Wayformer
+Planning: UniAD, DIPP, DTPP, Para-Drive, VAD, QCNet, Attention is All You Need, Wayformer
+
+3D Reconstruction: SCube
+
 
 nGPT
+
+
 
 Foundation Reinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance
 
