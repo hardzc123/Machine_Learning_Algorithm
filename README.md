@@ -20,3 +20,4 @@ Nvidia HOVER
 
 
 ## Machine Learning Math
+vector dot-product -> matrix multiplication
