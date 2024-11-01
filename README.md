@@ -9,6 +9,14 @@ UniAD, DIPP, DTPP, Para-Drive, VAD, QCNet, Attention is All You Need, Wayformer
 
 nGPT
 
+Foundation Reinforcement Learning: towards Embodied Generalist Agents with Foundation Prior Assistance
+
+
+## Embodied Intelligence
+
+## LLM 
+Nvidia HOVER
+
 
 
 ## Machine Learning Math
