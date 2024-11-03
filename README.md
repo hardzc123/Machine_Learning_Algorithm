@@ -3,9 +3,32 @@ Fundamental, Educational, Research
 
 This repo mainly includes the math and algorithm mechanism behind the popular models
 
-## Machine Learning Basics
+## Machine Learning Fundamentals and Education
+
+Google Machine Learning Glossary: https://developers.google.com/machine-learning/glossary
+
+Andrej Karpathy: https://www.youtube.com/@AndrejKarpathy
+
+3Braun1Blue
+
+Cousera (Machine Learning, Deep Learning, LLM)
+
+Book Machine Learning with Pytorch
+
+Book Machine Learning Interview 
+
+
+
+
+## Math
+vector dot-product -> matrix multiplication
+
+
 
 ## Machine Learning Papers 
+
+
+
 
 Planning: UniAD, DIPP, DTPP, Para-Drive, VAD, QCNet, Attention is All You Need, Wayformer
 
@@ -25,6 +48,9 @@ Foundation Reinforcement Learning: towards Embodied Generalist Agents with Found
 Nvidia HOVER
 
 
+## Open Source Tools
+graphViz
 
-## Machine Learning Math
-vector dot-product -> matrix multiplication
+micrograd (Andrej Karpathy)
+
+
